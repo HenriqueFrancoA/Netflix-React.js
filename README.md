@@ -13,7 +13,7 @@ Para rodar o aplicativo em sua máquina, você precisará ter o [NODE](https://n
 Na sua pasta de escolha use o comando para clonar o repositório e baixar as dependências do projeto:
 ```
 git clone https://github.com/rick5678/Netflix-React.js.git
-cd netflix-react.js
+cd netflix-react
 npm install
 npm start
 ```
